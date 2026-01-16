@@ -26,4 +26,5 @@ This experiment demonstrates why **data-oriented design** is commonly preferred 
 ```bash
 g++ -O2 memory_layout.cpp -o memory_layout
 ./memory_layout
-<img width="2008" height="1107" alt="Screenshot 2026-01-16 233619" src="https://github.com/user-attachments/assets/99f2003f-f0d8-4143-aa19-37e35dab296d" />
+<img width="718" height="431" alt="Screenshot 2026-01-16 233204" src="https://github.com/user-attachments/assets/ff92b5cc-5445-4d89-9bce-f4e7d1dd6715" />
+
